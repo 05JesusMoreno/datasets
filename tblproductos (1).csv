@@ -1,0 +1,19 @@
+"IdProducto","IdEmpleado","vchNombreProducto","vchNomImagen","vchDescripcion","Existencias","IdCategoria","IdMarca","Precio","EnOferta","PrecioOriginal","PrecioOferta"
+"1","1","ViewEase Ultra
+","https://res.cloudinary.com/dlrixqhln/image/upload/v1711732034/Productos/m3fxqx7asxurxrqwmgno.png","Lentes de sol 100% original","0","1","2","200","0","200.00","100.00"
+"2","1","OptiFocus Precision
+","https://res.cloudinary.com/dlrixqhln/image/upload/v1712101379/Productos/wpvmdjfgo0qiptuqnlbr.jpg"," El lente Optifocus Precision es una opción ideal para aquellos que buscan una visión clara y precis","5","2","1","300","1",NULL,"150.00"
+"3","1","SightMaster Flex
+","https://res.cloudinary.com/dlrixqhln/image/upload/v1711335343/xl8sg7hspea9dyhtqyxn.jpg","Lentes opticos xd","0","2","2","200","1",NULL,"150.00"
+"4","1","SunGuard Elite
+","https://res.cloudinary.com/dlrixqhln/image/upload/v1711335343/xl8sg7hspea9dyhtqyxn.jpg","LENTES XD","0","1","1","100","1",NULL,"75.00"
+"7","1","VisionClear Pro","http://res.cloudinary.com/dlrixqhln/image/upload/v1711673031/ghp115xuvrs92mpwb9cp.jpg","sasaas","1","2","2","500","0","500.00","350.00"
+"8",NULL,"Lents","http://res.cloudinary.com/dlrixqhln/image/upload/v1711673031/ghp115xuvrs92mpwb9cp.jpg","sdadssadasd","12","1","1","250","0",NULL,"200.00"
+"9",NULL,"Lents","https://res.cloudinary.com/dlrixqhln/image/upload/v1711335343/xl8sg7hspea9dyhtqyxn.jpg","sdadssadasd","3","1","1","250","0",NULL,NULL
+"10",NULL,"Lents","http://res.cloudinary.com/dlrixqhln/image/upload/v1711673031/ghp115xuvrs92mpwb9cp.jpg","sdadssadasd","1","1","1","250","0",NULL,NULL
+"11",NULL,"Lents","http://res.cloudinary.com/dlrixqhln/image/upload/v1711673031/ghp115xuvrs92mpwb9cp.jpg","sdadssadasd","5","1","1","250","0",NULL,NULL
+"12",NULL,"Lentsa reyescar","https://res.cloudinary.com/dlrixqhln/image/upload/v1717755844/Productos/cuqwsqenjopvfezxdxon.png","Los lentes ReyesCar son sinónimo de elegancia, innovación y calidad. Esta marca ha logrado posiciona","5","1","1","250","1","250.00","100.00"
+"13",NULL,"Lents","http://res.cloudinary.com/dlrixqhln/image/upload/v1711673031/ghp115xuvrs92mpwb9cp.jpg","sdadssadasd","5","1","1","250","0",NULL,NULL
+"14",NULL,"Lents","http://res.cloudinary.com/dlrixqhln/image/upload/v1711673183/bo5d65jbswyklij8ipsj.jpg","sdadssadasd","5","1","1","250","0",NULL,NULL
+"15",NULL,"Lents reyos","https://res.cloudinary.com/dlrixqhln/image/upload/v1717756019/Productos/hhxaielqhinuxwkuhdgq.jpg","sdadssadasd","0","1","1","250","1","250.00","150.00"
+"16",NULL,"Lents","http://res.cloudinary.com/dlrixqhln/image/upload/v1711871785/Productos/svdmxl5fhpyc1oolwu9c.png","sdadssadasd","0","1","1","250","0","250.00","50.00"
